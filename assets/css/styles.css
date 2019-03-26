@@ -1,3 +1,40 @@
+body
+{
+
+background-color: #6d6d6d;
+color: white;
+
+}
+
+.m-0
+{
+
+  margin: 0;
+  padding: 0;
+
+}
+
+.darker
+{
+
+background-color: #1b1b1b;
+
+}
+
+.dark
+{
+
+background-color: #424242;
+
+}
+
+a
+{
+
+color: white;
+
+}
+
 img
 {
 

@@ -58,7 +58,6 @@ img
 
 margin:10px auto;
 
-
 }
 
 .contacts
@@ -73,5 +72,29 @@ margin:10px auto;
 {
 
   font-size: 24px;
+
+}
+
+.contactHolder
+{
+  text-align: center;
+  background-color: #1b1b1b;
+  padding: 40px 0;
+
+}
+.contactH2
+{
+
+  margin-top: 0;
+  margin-bottom: 10px;
+
+}
+.centered
+{
+
+  text-align:center;
+  background-color: #424242;
+  padding: 20px;
+  margin: 20px;
 
 }
